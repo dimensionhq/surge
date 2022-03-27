@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "core",
+    "relay",
+    "utils",
+    "tests"
+]
