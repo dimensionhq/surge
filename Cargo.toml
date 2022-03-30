@@ -1,7 +1,8 @@
 [workspace]
 members = [
-    "core",
+    "storage",
     "relay",
     "utils",
-    "tests"
+    "tests",
+    "server"
 ]
